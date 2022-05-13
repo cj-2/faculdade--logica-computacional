@@ -66,3 +66,29 @@ Para responder a esse problema, podemos recorrer ao método de contagem chamado 
 |A∪B| = |A| + |B| - | A∩B| = 280+300-120=460.
 
 Ou seja, essa empresa tem 460 profissionais trabalhando no setor de Tecnologia da Informação.
+
+## Complementos de um conjunto
+
+Seja o conjunto A um subconjunto de U, ou seja, A⊆U. O complemento do conjunto A contido no conjunto U, denotado por CUA , é a diferença entre os conjunto U e A ou seja, é o conjunto de todos os elementos que pertencem ao conjunto U e não pertencem ao conjunto A (PEREIRA; SODRÉ, 2006).
+
+Seja A ={1,2,3, 4,5,6,7,8,9,10} e B ={1,2,3,5,8,9} . O complemento de B em relação a A consiste no conjunto constituído por todos os elementos pertencentes a A que não pertencem a B. Temos, portanto: CAB ={4,6,7,10} .
+
+Em outras palavras, podemos dizer que o complemento de B em relação a A consiste no conjunto formado por elementos que pertencem exclusivamente a A, quando comparados com os elementos de B.
+
+Segundo Ferreto (2019), há dois fatos que merecem atenção no estudo do complemento de um conjunto. O primeiro fato ao qual devemos ficar atentos é que para que um conjunto complementar a outro exista, há uma condição que deve ser respeitada: para que haja o cálculo do conjunto complementar de B em relação a A, B deve ser subconjunto de A.
+
+Outro fato que também merece atenção diz respeito à maneira como o conjunto complementar é representado simbolicamente. É importante notar que CAB ≠ CBA . Para determinarmos CAB fazemos A-B , enquanto que para determinarmos CBA fazemos B - A (lembrando que nem sempre é possível determinar o complemento de um determinado conjunto).
+
+## Produto cartesiano
+
+Sejam os conjuntos A e B. O produto cartesiano de A e B, denotado por A ｘ B , é o conjunto de todos os pares ordenados (listas de dois elementos) formados, tomando-se um elemento de A juntamente com um elemento de B de todas as maneiras possíveis.
+
+Considere os conjuntos A ={4,5,6} e B ={6,7,8}.
+
+Vamos definir os produtos cartesianos A ｘ B e B ｘ A.
+
+A×B ={(4,6),(4,7),(4,8),(5,6),(5,7),(5,8),(6,6),(6,7),(6,8)}
+
+B×A ={(6, 4),(6,5),(6,6),(7, 4),(7,5),(7,6),(8, 4),(8,5),(8,6)}
+
+Note que A×B ≠ B×A . Isso acontece porque a operação produto cartesiano não é uma operação comutativa.
