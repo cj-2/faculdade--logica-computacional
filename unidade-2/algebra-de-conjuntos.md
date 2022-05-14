@@ -15,7 +15,7 @@ de Matemática dessa mesma universidade, logo, podemos afirmar que B também é 
 
 Um novo conjunto de alunos pode ser definido como consistindo em todos os alunos que sejam estudantes do curso de Análise e Desenvolvimento de Sistemas ou Matemática (ou ambos). Esse conjunto é chamado de união de A e B. Segundo Gersting (1995), a operação de união de A e B pode ser denotada como A∪B= {x | x ∈ A ou x ∈ B}. Nesse exemplo, a união A∪B compreende todos os alunos que cursam Análise e Desenvolvimento de Sistemas (A) ou Matemática (B) ou ambos os cursos.
 
-# Intersecção
+## Intersecção
 
 Outro conjunto pode ser definido como sendo composto por todos os alunos do curso de Análise e Desenvolvimento de Sistemas e do curso de Matemática, ou seja, alunos que cursam simultaneamente ambos os cursos. Esse novo conjunto (que pode ser vazio) é chamado de intersecção de A e B. Segundo Gersting (1995), a operação de intersecção de A e B pode ser denotada como A∩B= {x|x∈A e x∈B}. Nesse exemplo, a união A∩B compreende todos os alunos que cursam simultaneamente Análise e Desenvolvimento de Sistemas (A) e Matemática (B).
 
@@ -27,7 +27,7 @@ Nesse caso dizemos também que A é subconjunto de B.
 
 A boca do simbolo "⊂" refere-se ao conjunto que contem o outro.
 
-## Exemplos
+### Exemplos
 
 Exemplo 1: Sejam os conjuntos A ={10,11,12,13,14,15} e B ={13,14,15,16,17,18,19} , o conjunto A∪B
 

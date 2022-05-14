@@ -1,1 +1,0 @@
-# Aplicação da Teoria
